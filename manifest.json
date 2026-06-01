@@ -1,0 +1,30 @@
+{
+  "name": "متجري الذكي",
+  "short_name": "متجري",
+  "description": "متجر إلكتروني متكامل مع خدمة واتساب",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0D0D1A",
+  "theme_color": "#6C63FF",
+  "orientation": "portrait-primary",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/6C63FF/ffffff?text=S",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/6C63FF/ffffff?text=S",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["shopping", "business"],
+  "screenshots": [],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
