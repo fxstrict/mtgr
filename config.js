@@ -24,9 +24,7 @@ window.STORE_CONFIG = {
 
   // *** رابط Google Apps Script - الخطوة الأهم ***
   // ضع رابط الـ Web App هنا بعد النشر
-  apiUrl:
-  "https://script.google.com/macros/s/AKfycbxfZ8s_32ylzDrjBGTpP1bYYS-0NwaYzH8N7nHrvv0rFlwCnRYZbdmT1CX1J9yAvtdP/exec",
-
+  apiUrl: "https://script.google.com/macros/s/AKfycbxfZ8s_32ylzDrjBGTpP1bYYS-0NwaYzH8N7nHrvv0rFlwCnRYZbdmT1CX1J9yAvtdP/exec",
   // إعدادات أساسية (سيتم تحميلها من قاعدة البيانات تلقائياً)
   // هذه قيم افتراضية تُستخدم قبل تحميل البيانات
   defaults: {
